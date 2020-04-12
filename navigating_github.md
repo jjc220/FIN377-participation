@@ -8,8 +8,8 @@ Emoji | Meaning
 ## TASK LISTS
 - [x] README.md
 - [x] navigating_github.md
-- [x ] codebook/
-- [x ] homework/
+- [x] codebook/
+- [x] homework/
 - [x] livecoding/
 - [x] .gitignore
 - [x] misc/
