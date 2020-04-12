@@ -26,19 +26,19 @@ Emoji | Meaning
 
 # “How to” notes
     1. 1. To open my my participation repo in Jupyter I run jupyter notebook --notebook-dir
-    "C:/Users/julaiseicaguana/Desktop/FIN377/FIN377-participation"
+        "C:/Users/julaiseicaguana/Desktop/FIN377/FIN377-participation"
     2. To open my my assignment 1 in Jupyter I run jupyter notebook --notebook-dir
-    "C:/Users/julaiseicaguana/Desktop/FIN377/ASGN-01-jjc220"
+        "C:/Users/julaiseicaguana/Desktop/FIN377/ASGN-01-jjc220"
     3. To open my assignment 2 in Jupyter I run jupyter notebook --notebook-dir 
-    "C:/Users/julaiseicaguana/Desktop/FIN377/ASGN-02-jjc220"
+        "C:/Users/julaiseicaguana/Desktop/FIN377/ASGN-02-jjc220"
     4. To open my assignment 3 in Jupyter I run jupyter notebook --notebook-dir 
-    "C:/Users/julaiseicaguana/Desktop/FIN377/ASGN-03-jjc220"
+        "C:/Users/julaiseicaguana/Desktop/FIN377/ASGN-03-jjc220"
     5. To open my assignment 4 in Jupyter I run jupyter notebook --notebook-dir 
-    "C:/Users/julaiseicaguana/Desktop/FIN377/ASGN-04-jjc220"
+        "C:/Users/julaiseicaguana/Desktop/FIN377/ASGN-04-jjc220"
     6. To open my assignment 5 in Jupyter I run jupyter notebook --notebook-dir 
-    "C:/Users/julaiseicaguana/Desktop/FIN377/ASGN-05-jjc220"
+        "C:/Users/julaiseicaguana/Desktop/FIN377/ASGN-05-jjc220"
     7. To open my assignment 6 in Jupyter I run jupyter notebook --notebook-dir 
-    "C:/Users/julaiseicaguana/Desktop/FIN377/ASGN-06-jjc220"
+        "C:/Users/julaiseicaguana/Desktop/FIN377/ASGN-06-jjc220"
 
 
 # Golden Rules
