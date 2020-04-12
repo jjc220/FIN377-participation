@@ -7,12 +7,12 @@ Emoji | Meaning
 
 ## TASK LISTS
 - [x] README.md
-- [X ] navigating_github.md
-- [X ] codebook/
-- [X ] homework/
-- [X ] livecoding/
-- [X ] .gitignore
-- [X ] misc/
+- [x] navigating_github.md
+- [x ] codebook/
+- [x ] homework/
+- [x] livecoding/
+- [x] .gitignore
+- [x] misc/
 - [x] Thank you so much for all you've taught us! @donbowen
 
 
