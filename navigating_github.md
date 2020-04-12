@@ -25,7 +25,11 @@ Emoji | Meaning
 
 
 # “How to” notes
-1. "To open my participation repo in Jupyter I run" jupyter notebook --notebook-dir "C:/Users/julaiseicaguana/Desktop/FIN377/FIN377-participation"
+        1. To open my participation repo in Jupyter I run jupyter notebook --notebook-dir "C:/Users/julaiseicaguana/Desktop/FIN377/FIN377-participation"
+    2. To open my my assignment 1 in Jupyter I run jupyter notebook --notebook-dir
+    "C:/Users/julaiseicaguana/Desktop/FIN377/ASGN-01-jjc220"
+    3. To open my assignment 2 in Jupyter I run jupyter notebook --notebook-dir 
+    "C:/Users/julaiseicaguana/Desktop/FIN377/ASGN-02-jjc220"
 
 
 # Golden Rules
