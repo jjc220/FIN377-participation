@@ -6,13 +6,13 @@ Emoji | Meaning
 🙅‍ | Not started
 
 ## TASK LISTS
-- [x] README.md
-- [x] navigating_github.md
-- [x] codebook/
-- [x] homework/
-- [x] livecoding/
-- [x] .gitignore
-- [x] misc/
+- [x] Updated README.md
+- [x] Organized navigating_github.md
+- [x] Updated codebook/
+- [x] Completed homework/
+- [x] Organized livecoding/
+- [x] Modified .gitignore
+- [x] Organized misc/
 - [x] Thank you so much for all you've taught us! @donbowen
 
 
