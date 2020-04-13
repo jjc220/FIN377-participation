@@ -1,5 +1,4 @@
-def NEAR_regex(list_of_words,max_words_between=5,partial=False,cases_matter=False):
-            
+def NEAR_regex(list_of_words,max_words_between=5,partial=False,cases_matter=False): 
     from itertools import permutations
     
     start = r'(?:\b' # the r means "raw" as in the backslash is just a backslash, not an escape character
