@@ -1,6 +1,6 @@
 # FIN377-participation
 
-My name is Julaisei Caguana-Salazar, and I am a senior at Lehigh Univeristy studying Finance. I am currently taking a class called FIN 377 Advanced Investments: Data Analytics, where I am learning to use python for the first time to help me better understand and analyze financial data. My goal is to end the class being able to confidently put down python as one of my skills and spark an interest in learning other coding languages.
+My name is Julaisei Caguana-Salazar, and I am a senior at Lehigh Univeristy studying Finance. I am currently taking a class called FIN 377 Advanced Investments: Data Analytics, where I am learning to use python for the first time to help me better understand and analyze financial data. My goal is to end the class being able to confidently put down python as one of my skills and spark an interest in learning other coding languages. I hope you can find this repo useful!
 
 ## In this repo you will find 5 folder and a navigation md file:
 Some of the topics in this repo include using the python libraries such as pandas, numpy, seaborn, and matplotlib and their various methods and attributes. It also touches on more complicated topics such as scraping, regressions analysis,prerdictive models,and data visualation to help interpret and showcase financial data. 
