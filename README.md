@@ -34,7 +34,7 @@ This md file is very helpful in giving you the links needed to access lectures, 
 
 [PY Data](https://seaborn.pydata.org/generated/seaborn.catplot.html)
 
-[Homework Guidelines](https://ledatascifi.github.io/assignments/asgn05.html)
+[Regressions](https://www.statisticshowto.com/probability-and-statistics/regression-analysis/)
 
 ### Need Resources to Install before running codes
 1.  pip install pandas
@@ -62,3 +62,5 @@ This md file is very helpful in giving you the links needed to access lectures, 
 22. from sklearn.linear_model import LinearRegression
 23. from sklearn import linear_model
 24. Import statsmodels.api as sm  
+
+![](https://media.giphy.com/media/26BRHKYhKLd6PlwsM/giphy.gif)
